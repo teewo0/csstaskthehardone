@@ -1,6 +1,7 @@
 .container {
     display: flex;
     justify-content: space-around;
+    width: 1440px;
 }
 .containeritem1 {
     padding: 20px;
@@ -51,4 +52,17 @@ h2 {
 .flexcontainer2 {
     display: flex;
     padding: 10px;
+}
+.mmiddlecontainer {
+    margin-top: 200px;
+}
+.middlecontainer {
+    display: flex;
+    width: 1300px;
+}
+.midddlecontainer {
+    display: flex;
+    justify-content: space-between;
+    width: 1300px;
+    margin-top: 200px;
 }
